@@ -16,5 +16,4 @@ These files are part of my detailed masterclass on setting up the perfect enviro
 
 ## Quick Install
 Oh My Posh Installation unter Ubuntu
-curl -s https://ohmyposh.dev/install.sh | bash -s
-
+```curl -s https://ohmyposh.dev/install.sh | bash -s```
