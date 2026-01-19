@@ -1,6 +1,3 @@
-# wsl2-web-development-setup-config
-Optimierte Dotfiles und Setup-Skripte für professionelle Webentwicklung unter Windows (WSL 2). Full Guide: 👇
-
 # 🚀 Ultimate WSL 2 Web Development Setup
 
 This repository contains my personal configuration files (`.zshrc`, terminal settings) for a high-performance Windows development environment.
