@@ -15,4 +15,6 @@ These files are part of my detailed masterclass on setting up the perfect enviro
 👉 **[Read the full Step-by-Step Guide here](https://webinteger.dev/blog/wsl-2-webentwicklung-guide)**
 
 ## Quick Install
-(Hier könntest du z.B. einfach 2-3 Zeilen Code aus deinem Artikel einfügen, z.B. wie man ZSH installiert)
+Oh My Posh Installation unter Ubuntu
+curl -s https://ohmyposh.dev/install.sh | bash -s
+
